@@ -12,7 +12,7 @@ oraz względem ramienia dźwigu.
 - Użytkownik może zbudować wieżę z maksymalnie **3 kwadratów** ułożonych jeden na drugi.
 
 ### Zrzut ekranu
-![Zrzut ekranu 4.3](https://github.com/user-attachments/assets/b9dc8a9c-980f-4cc3-9618-3074ad2b958b)
+![Zrzut ekranu 4.1](https://github.com/user-attachments/assets/b9dc8a9c-980f-4cc3-9618-3074ad2b958b)
 
 ---
 
@@ -22,7 +22,7 @@ oraz względem ramienia dźwigu.
 - Użytkownik może zbudować wieżę z maksymalnie **3 trójkątów** ułożonych jeden na drugi.
 
 ### Zrzut ekranu
-https://github.com/user-attachments/assets/b67d53e6-3770-4234-b272-5cf3982979a5
+![Zrzut ekranu 4.2](https://github.com/user-attachments/assets/b67d53e6-3770-4234-b272-5cf3982979a5)
 
 ---
 
@@ -32,7 +32,7 @@ https://github.com/user-attachments/assets/b67d53e6-3770-4234-b272-5cf3982979a5
 - Użytkownik może zbudować wieżę z maksymalnie **3 kół** ułożonych jeden na drugi.
 
 ### Zrzut ekranu
-https://github.com/user-attachments/assets/299463bd-48dc-4871-ae09-660610cebabb
+![Zrzut ekranu 4.3](https://github.com/user-attachments/assets/299463bd-48dc-4871-ae09-660610cebabb)
 
 ---
 
@@ -41,7 +41,7 @@ https://github.com/user-attachments/assets/299463bd-48dc-4871-ae09-660610cebabb
 - Dźwig **nie pozwala** na podniesienie elementu, jeśli jego masa jest zbyt duża.
 
 ### Zrzut ekranu
-https://github.com/user-attachments/assets/01515acc-65fa-4db6-a934-0473f2ad069e
+![Zrzut ekranu 4.4](https://github.com/user-attachments/assets/01515acc-65fa-4db6-a934-0473f2ad069e)
 
 ---
 
@@ -49,7 +49,7 @@ https://github.com/user-attachments/assets/01515acc-65fa-4db6-a934-0473f2ad069e
 - Gdy użytkownik próbuje utworzyć wieżę większą niż 3 bloki, wyświetla się komunikat informujący o braku takiej możliwości.
 - Poniżej zrzut ekranu prezentujacy komunikat, nie da sie upusić bloku. 
  ### Zrzut ekranu
-https://github.com/user-attachments/assets/58763c47-958a-4417-a2d5-ddd65c0c52b2
+![Zrzut ekranu 4.5](https://github.com/user-attachments/assets/58763c47-958a-4417-a2d5-ddd65c0c52b2)
 
 ---
 
