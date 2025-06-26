@@ -1,7 +1,8 @@
 # Stanisław Oryl s203702 , Tomasz Kupski s203579
   
 
-# Projekt 4: Napisz program symulujący działanie dźwigu. Symulator powinien uwzględniać możliwość podnoszenia i
+# Projekt 4:
+Napisz program symulujący działanie dźwigu. Symulator powinien uwzględniać możliwość podnoszenia i
 opuszczania towarów. W aplikacji mamy możliwość poruszania zaczepionym towarem do góry i na dół
 oraz względem ramienia dźwigu.
 
