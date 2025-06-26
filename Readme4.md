@@ -12,7 +12,7 @@ oraz względem ramienia dźwigu.
 - Użytkownik może zbudować wieżę z maksymalnie **3 kwadratów** ułożonych jeden na drugi.
 
 ### Zrzut ekranu
-https://github.com/user-attachments/assets/b9dc8a9c-980f-4cc3-9618-3074ad2b958b
+![Zrzut ekranu 4.3](https://github.com/user-attachments/assets/b9dc8a9c-980f-4cc3-9618-3074ad2b958b)
 
 ---
 
